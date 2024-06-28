@@ -34,3 +34,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+Veuilez installer les dépendances suivantes:
+
+* Shadcn/ui est une collection de composants d'interface utilisateur pour React construits avec Tailwind CSS. Ces composants sont conçus pour être simples, personnalisables et faciles à intégrer dans des projets React avec la commande suivante: npx shadcn-ui@latest init
+
+* Clerk pour Next.js est une bibliothèque de gestion de l'authentification et des utilisateurs pour les applications Next.js. Clerk fournit des solutions complètes pour l'authentification, y compris la gestion des sessions, l'inscription des utilisateurs, la gestion des mots de passe, et bien plus encore avec la commande suivante: npm install @clerk/nextjs
+
+* usehooks-ts une collection de hooks React TypeScript prêts à l'emploi. Ces hooks sont conçus pour simplifier le développement en React en fournissant des solutions pratiques et réutilisables pour des besoins courants avec cette commande: npm install usehooks-ts

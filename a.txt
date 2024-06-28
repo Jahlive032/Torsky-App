@@ -1,0 +1,23 @@
+PS D:\Apprentissage\Taskify\torsky-app> npx create-next-app@latest torsky-app
+
+PS D:\Apprentissage\Taskify\torsky-app> npx shadcn-ui@latest init
+
+PS D:\Apprentissage\Taskify\torsky-app> npm install @clerk/nextjs   
+
+PS D:\Apprentissage\Taskify\torsky-app> npm install usehooks-ts
+
+PS D:\Apprentissage\Taskify\torsky-app> npm install zustand
+
+PS D:\Apprentissage\Taskify\torsky-app> npm install prisma --save-dev
+
+PS D:\Apprentissage\Taskify\torsky-app> npx prisma init
+
+PS D:\Apprentissage\Taskify\torsky-app> npx install @prisma/client
+
+PS D:\Apprentissage\Taskify\torsky-app> npm install zod
+
+PS D:\Apprentissage\Taskify\torsky-app> npm install sonner
+
+PS D:\Apprentissage\Taskify\torsky-app> npm i --save unsplash-js
+
+PS D:\Apprentissage\Taskify\torsky-app> npm i @tanstack/react-query 
